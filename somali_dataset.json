@@ -10,7 +10,7 @@
     },
     {
       "English": "Bedbug",
-      "Somali": "Tixri"
+      "Somali": "dhiqle"
     },
     {
       "English": "Mosquito",
@@ -18,7 +18,7 @@
     },
     {
       "English": "Ant",
-      "Somali": "Qudhaanj"
+      "Somali": "Quraanjo"
     },
     {
       "English": "Bee",
@@ -65,8 +65,8 @@
       "Somali": "Shukulaato"
     },
     {
-      "English": "Jelly",
-      "Somali": "Malmalaado"
+      "English": "Plumpy’Nut",
+      "Somali": "buskud dhiiq"
     },
     {
       "English": "Cake",
@@ -102,7 +102,7 @@
   "Dhirta": [
     {
       "English": "Cactus",
-      "Somali": "Tiintiin"
+      "Somali": "Tiitiin"
     },
     {
       "English": "Tree",
