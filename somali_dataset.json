@@ -1,0 +1,216 @@
+{
+  "Cayayaanka": [
+    {
+      "English": "Fly",
+      "Somali": "Duqsi"
+    },
+    {
+      "English": "Cockroach",
+      "Somali": "Barambaro"
+    },
+    {
+      "English": "Bedbug",
+      "Somali": "Tixri"
+    },
+    {
+      "English": "Mosquito",
+      "Somali": "Kaneeco"
+    },
+    {
+      "English": "Ant",
+      "Somali": "Qudhaanj"
+    },
+    {
+      "English": "Bee",
+      "Somali": "Shinni"
+    }
+  ],
+  "Cabitaanada": [
+    {
+      "English": "Milk",
+      "Somali": "Caano"
+    },
+    {
+      "English": "Honey",
+      "Somali": "Malab"
+    },
+    {
+      "English": "Water",
+      "Somali": "Biyo"
+    },
+    {
+      "English": "Tea",
+      "Somali": "Shaah"
+    },
+    {
+      "English": "Coffee",
+      "Somali": "Qaxwo"
+    },
+    {
+      "English": "Juice",
+      "Somali": "Casiir"
+    }
+  ],
+  "Macmacaanka": [
+    {
+      "English": "Halva",
+      "Somali": "Xalwo"
+    },
+    {
+      "English": "Biscuit",
+      "Somali": "Buskud"
+    },
+    {
+      "English": "Chocolate",
+      "Somali": "Shukulaato"
+    },
+    {
+      "English": "Jelly",
+      "Somali": "Malmalaado"
+    },
+    {
+      "English": "Cake",
+      "Somali": "Keeg"
+    },
+    {
+      "English": "Candy",
+      "Somali": "Nacnac"
+    }
+  ],
+  "Miraha": [
+    {
+      "English": "Watermelon",
+      "Somali": "Qare"
+    },
+    {
+      "English": "Apple",
+      "Somali": "Tufaax"
+    },
+    {
+      "English": "Banana",
+      "Somali": "Moos"
+    },
+    {
+      "English": "Orange",
+      "Somali": "Liin"
+    },
+    {
+      "English": "Mango",
+      "Somali": "Cambe"
+    }
+  ],
+  "Dhirta": [
+    {
+      "English": "Cactus",
+      "Somali": "Tiintiin"
+    },
+    {
+      "English": "Tree",
+      "Somali": "Geed"
+    },
+    {
+      "English": "Grass",
+      "Somali": "Caws"
+    },
+    {
+      "English": "Flower",
+      "Somali": "Ubax"
+    },
+    {
+      "English": "Prosopis",
+      "Somali": "Geed yahuud"
+    }
+  ],
+  "Xayawaanka": [
+    {
+      "English": "Bear",
+      "Somali": "Oorso"
+    },
+    {
+      "English": "Mouse",
+      "Somali": "Dooli"
+    },
+    {
+      "English": "Monkey",
+      "Somali": "Daanyeer"
+    },
+    {
+      "English": "Tiger",
+      "Somali": "Taygar"
+    },
+    {
+      "English": "Cat",
+      "Somali": "Bisad"
+    },
+    {
+      "English": "Dog",
+      "Somali": "Eey"
+    },
+    {
+      "English": "Lion",
+      "Somali": "Libaax"
+    }
+  ],
+  "QalabkaGuriga": [
+    {
+      "English": "Chair",
+      "Somali": "Kursi"
+    },
+    {
+      "English": "Table",
+      "Somali": "Miis"
+    },
+    {
+      "English": "Bed",
+      "Somali": "Sariir"
+    },
+    {
+      "English": "Door",
+      "Somali": "Albaab"
+    },
+    {
+      "English": "Window",
+      "Somali": "Daaqad"
+    }
+  ],
+  "Ciyaaraha": [
+    {
+      "English": "Football",
+      "Somali": "Kubad cag"
+    },
+    {
+      "English": "Basketball",
+      "Somali": "Kubad koley"
+    },
+    {
+      "English": "Tennis",
+      "Somali": "Tenis"
+    },
+    {
+      "English": "Game",
+      "Somali": "Ciyaar"
+    }
+  ],
+  "JirkaAadanaha": [
+    {
+      "English": "Head",
+      "Somali": "Madax"
+    },
+    {
+      "English": "Hand",
+      "Somali": "Gacan"
+    },
+    {
+      "English": "Leg",
+      "Somali": "Lug"
+    },
+    {
+      "English": "Eye",
+      "Somali": "Isha"
+    },
+    {
+      "English": "Heart",
+      "Somali": "Wadne"
+    }
+  ]
+}
