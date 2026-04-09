@@ -211,6 +211,437 @@
     {
       "English": "Heart",
       "Somali": "Wadne"
+    },
+    {
+     {
+  "Cayayaanka": [
+    {
+      "English": "Spider",
+      "Somali": "Caaro"
+    },
+    {
+      "English": "Butterfly",
+      "Somali": "Balanbaalis"
+    },
+    {
+      "English": "Scorpion",
+      "Somali": "Dabagal"
+    },
+    {
+      "English": "Grasshopper",
+      "Somali": "Ayax"
+    },
+    {
+      "English": "Worm",
+      "Somali": "Gooryaan"
+    },
+    {
+      "English": "Tick",
+      "Somali": "Shilin"
+    },
+    {
+      "English": "Snail",
+      "Somali": "DoonDiqle"
+    },
+    {
+      "English": "Flea",
+      "Somali": "Takfi"
+    }
+  ],
+  "Cabitaanada": [
+    {
+      "English": "Soup",
+      "Somali": "Maraq"
+    },
+    {
+      "English": "Yogurt",
+      "Somali": "Ciir"
+    },
+    {
+      "English": "Lemonade",
+      "Somali": "Liin dhanaan"
+    },
+    {
+      "English": "Soda",
+      "Somali": "Kooke"
+    },
+    {
+      "English": "Smoothie",
+      "Somali": "Baraf shiidan"
+    },
+    {
+      "English": "Purified Water",
+      "Somali": "Biyo sifeysan"
+    }
+  ],
+  "Macmacaanka": [
+    {
+      "English": "Ice cream",
+      "Somali": "Jalaato"
+    },
+    {
+      "English": "Chewing gum",
+      "Somali": "Xanjo"
+    },
+    {
+      "English": "Dates",
+      "Somali": "Timir"
+    },
+    {
+      "English": "Sugar",
+      "Somali": "Sokor"
+    },
+    {
+      "English": "Pancake",
+      "Somali": "Cambaabur"
+    },
+    {
+      "English": "Donut",
+      "Somali": "Doonad"
+    }
+  ],
+  "Miraha": [
+    {
+      "English": "Papaya",
+      "Somali": "Babbaay"
+    },
+    {
+      "English": "Grape",
+      "Somali": "Canaab"
+    },
+    {
+      "English": "Pineapple",
+      "Somali": "Canaanaas"
+    },
+    {
+      "English": "Coconut",
+      "Somali": "Qumbo"
+    },
+    {
+      "English": "Pomegranate",
+      "Somali": "Rumaan"
+    },
+    {
+      "English": "Guava",
+      "Somali": "Seytuun"
+    },
+    {
+      "English": "Grapefruit",
+      "Somali": "Banbeelmo"
+    }
+  ],
+  "Dhirta": [
+    {
+      "English": "Leaf",
+      "Somali": "Caleen"
+    },
+    {
+      "English": "Root",
+      "Somali": "Xidid"
+    },
+    {
+      "English": "Branch",
+      "Somali": "Laan"
+    },
+    {
+      "English": "Thorn",
+      "Somali": "Qodax"
+    },
+    {
+      "English": "Seed",
+      "Somali": "Abuur"
+    },
+    {
+      "English": "Acacia",
+      "Somali": "Qudhac"
+    },
+    {
+      "English": "Aloe vera",
+      "Somali": "Dacar"
+    }
+  ],
+  "Xayawaanka": [
+    {
+      "English": "Rabbit",
+      "Somali": "Bakayle"
+    },
+    {
+      "English": "Camel",
+      "Somali": "Geel"
+    },
+    {
+      "English": "Horse",
+      "Somali": "Faras"
+    },
+    {
+      "English": "Cow",
+      "Somali": "Sac"
+    },
+    {
+      "English": "Goat",
+      "Somali": "Ri"
+    },
+    {
+      "English": "Sheep",
+      "Somali": "Ido"
+    },
+    {
+      "English": "Elephant",
+      "Somali": "Maroodi"
+    },
+    {
+      "English": "Giraffe",
+      "Somali": "Geri"
+    },
+    {
+      "English": "Snake",
+      "Somali": "Mas"
+    },
+    {
+      "English": "Bird",
+      "Somali": "Shimbir"
+    },
+    {
+      "English": "Fish",
+      "Somali": "Kalluun"
+    },
+    {
+      "English": "Donkey",
+      "Somali": "Dameer"
+    }
+  ],
+  "QalabkaGuriga": [
+    {
+      "English": "Television",
+      "Somali": "Telefishan"
+    },
+    {
+      "English": "Knife",
+      "Somali": "Mindi"
+    },
+    {
+      "English": "Spoon",
+      "Somali": "Qaando"
+    },
+    {
+      "English": "Fork",
+      "Somali": "Fargeeto"
+    },
+    {
+      "English": "Plate",
+      "Somali": "Saxan"
+    },
+    {
+      "English": "Cup",
+      "Somali": "Koob"
+    },
+    {
+      "English": "Blanket",
+      "Somali": "Buste"
+    },
+    {
+      "English": "Pillow",
+      "Somali": "Barkiin"
+    },
+    {
+      "English": "Key",
+      "Somali": "Fure"
+    },
+    {
+      "English": "Broom",
+      "Somali": "Xaaqin"
+    }
+  ],
+  "Ciyaaraha": [
+    {
+      "English": "Running",
+      "Somali": "Orod"
+    },
+    {
+      "English": "Swimming",
+      "Somali": "Dabaal"
+    },
+    {
+      "English": "Wrestling",
+      "Somali": "Legdan"
+    },
+    {
+      "English": "Boxing",
+      "Somali": "Feer"
+    },
+    {
+      "English": "Volleyball",
+      "Somali": "Lalis"
+    },
+    {
+      "English": "Racing",
+      "Somali": "Tartan"
+    }
+  ],
+  "JirkaAadanaha": [
+    {
+      "English": "Hair",
+      "Somali": "Timo"
+    },
+    {
+      "English": "Ear",
+      "Somali": "Dheg"
+    },
+    {
+      "English": "Nose",
+      "Somali": "San"
+    },
+    {
+      "English": "Mouth",
+      "Somali": "Af"
+    },
+    {
+      "English": "Tooth",
+      "Somali": "Ilig"
+    },
+    {
+      "English": "Neck",
+      "Somali": "Qoor"
+    },
+    {
+      "English": "Back",
+      "Somali": "Dhabar"
+    },
+    {
+      "English": "Stomach",
+      "Somali": "Calool"
+    },
+    {
+      "English": "Foot",
+      "Somali": "Cag"
+    },
+    {
+      "English": "Finger",
+      "Somali": "Far"
+    },
+    {
+      "English": "Blood",
+      "Somali": "Dhiig"
+    },
+    {
+      "English": "Bone",
+      "Somali": "Laf"
+    }
+  ],
+  "Dharka_iyo_Qalabka": [
+    {
+      "English": "Mask",
+      "Somali": "Maaskaro"
+    },
+    {
+      "English": "Gloves",
+      "Somali": "Galoofis"
+    },
+    {
+      "English": "Shirt",
+      "Somali": "Shaar"
+    },
+    {
+      "English": "Pants",
+      "Somali": "Surwaal"
+    },
+    {
+      "English": "Shoes",
+      "Somali": "Kabo"
+    },
+    {
+      "English": "Hat",
+      "Somali": "Koofiyad"
+    },
+    {
+      "English": "Jacket",
+      "Somali": "Jaakad"
+    },
+    {
+      "English": "Socks",
+      "Somali": "Sigis"
+    },
+    {
+      "English": "Glasses",
+      "Somali": "Okiyaale"
+    },
+    {
+      "English": "Belt",
+      "Somali": "Suun"
+    }
+  ],
+  "Cuntada": [
+    {
+      "English": "Rice",
+      "Somali": "Bariis"
+    },
+    {
+      "English": "Meat",
+      "Somali": "Hilib"
+    },
+    {
+      "English": "Bread",
+      "Somali": "Roodhi"
+    },
+    {
+      "English": "Pasta",
+      "Somali": "Baasto"
+    },
+    {
+      "English": "Egg",
+      "Somali": "Ukun"
+    },
+    {
+      "English": "Onion",
+      "Somali": "Basal"
+    },
+    {
+      "English": "Potato",
+      "Somali": "Bataato"
+    },
+    {
+      "English": "Tomato",
+      "Somali": "Yaanyo"
+    },
+    {
+      "English": "Oil",
+      "Somali": "Saliid"
+    }
+  ],
+  "Gaadiidka": [
+    {
+      "English": "Car",
+      "Somali": "Baabuur"
+    },
+    {
+      "English": "Bus",
+      "Somali": "Bas"
+    },
+    {
+      "English": "Airplane",
+      "Somali": "Diyaarad"
+    },
+    {
+      "English": "Boat",
+      "Somali": "Doon"
+    },
+    {
+      "English": "Bicycle",
+      "Somali": "Baaskiil"
+    },
+    {
+      "English": "Train",
+      "Somali": "Tareen"
+    },
+    {
+      "English": "Motorcycle",
+      "Somali": "Mooto"
+    },
+    {
+      "English": "Truck",
+      "Somali": "Xamuul"
     }
   ]
 }
+ 
+
