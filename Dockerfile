@@ -10,10 +10,10 @@ COPY package*.json ./
 RUN npm install
 COPY . .
 
-# Amarradan hoose si sax ah u koobiyeey
+# Halkan waxaa lagu saxay amarkii 'registration register' oo laga dhigay 'registration new'
 CMD warp-svc > /dev/null 2>&1 & \
     sleep 5 && \
-    warp-cli --accept-tos registration register && \
+    warp-cli --accept-tos registration new && \
     warp-cli --accept-tos mode proxy && \
     warp-cli --accept-tos connect && \
     node index.js
