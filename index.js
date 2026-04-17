@@ -13,4 +13,4 @@ app.get('/proxy', (req, res) => {
     request({ url, agent }).pipe(res);
 });
 
-app.listen(8080, () => console.log('Proxy Bridge Active on Port 8080'));
+app.listen(8000, () => console.log('Proxy Bridge Active on Port 8000'));
