@@ -1,17 +1,24 @@
 const express = require('express');
 const request = require('request');
-const SocksProxyAgent = require('socks-proxy-agent');
-const app = express();
 
-const proxy = 'socks5://127.0.0.1:40001';
-const agent = new SocksProxyAgent(proxy);
+const app = express();
 
 app.get('/proxy', (req, res) => {
     const url = req.query.url;
-    if (!url) return res.status(400).send('No URL provided');
 
-    // Tani waxay YouTube u tusaysaa IP-ga Cloudflare
-    request({ url, agent }).pipe(res);
+    if (!url) {
+        return res.status(400).send('No URL provided');
+    }
+
+    request(url).on('error', () => {
+        res.status(500).send('Request failed');
+    }).pipe(res);
 });
 
-app.listen(8080, () => console.log('Proxy Bridge Active on Port 8000'));
+app.get('/', (req, res) => {
+    res.send('WireGuard Proxy is running');
+});
+
+app.listen(8080, () => {
+    console.log('Server running on port 8080');
+});
